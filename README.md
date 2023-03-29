@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<-- 👋 Hi there, I'm [Your Name]!
+<!-- 👋 Hi there, I'm [Your Name]!
 
 🚀 I'm a [Your Profession or Area of Expertise] with [Number of Years] years of experience, and I'm passionate about [Your Top Skills or Interests]. 
 
@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 📫 You can reach me via [Your Contact Information], or you can find more information about me on [Your Personal Website or Portfolio]. 
 -->
-
 👋 Hi there, I am José Nascimento!
 
 🚀 I am a Ph.D. student in Computer Science at the University of Campinas, Brazil.
