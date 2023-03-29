@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 📫 You can reach me via [Your Contact Information], or you can find more information about me on [Your Personal Website or Portfolio]. 
 -->
+
 👋 Hi there, I am José Nascimento!
 
 🚀 I am a Ph.D. student in Computer Science at the University of Campinas, Brazil.
