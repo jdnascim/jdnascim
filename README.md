@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 🔭 My areas of research are machine learning and multimedia forensics. Specifically, I currently work on the development of an automated method to determine whether a piece of social media data is related or not to a given forensic event.
 
-📫 You can reach me via [email](mailto:jose.nascimento@ic.unicamp.br), or you can find more information about me on my [website](jdnascim.github.io). 
+📫 You can reach me via [email](mailto:jose.nascimento@ic.unicamp.br), or you can find more information about me on my [website](https://jdnascim.github.io). 
