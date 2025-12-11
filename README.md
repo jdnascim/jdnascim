@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 -->
 👋 Hi there, I am José Nascimento!
 
-🚀 I am a Ph.D. student in Computer Science at the University of Campinas, Brazil.
+🚀 I am an AI Specialist with a Ph.D. in Computer Science from Universidade de Campinas, Brazil.
 
-🔭 My areas of research are machine learning and multimedia forensics. Specifically, I currently work on the development of an automated method to determine whether a piece of social media data is related or not to a given forensic event.
+🔭 My doctoral research, conducted under the DejáVù Project and advised by Prof. Anderson Rocha at the Artificial Intelligence (Recod.ai) lab, focused on developing AI methods to identify whether social media content is connected to specific forensic events. Today, I leverage this expertise to design and apply AI solutions that address real-world challenges.
 
 📫 You can reach me via [email](mailto:jose.nascimento@ic.unicamp.br), or you can find more information about me on my [website](https://jdnascim.github.io). 
